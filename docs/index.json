@@ -39,7 +39,7 @@
                     "children": [
                         {
                             "path": "/docs/network/1-ipv6-protocol",
-                            "title": "Development Environment Configuration for CPP",
+                            "title": "1. ipv6-protocol",
                             "type": "markdown"
                         }
                     ]
