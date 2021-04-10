@@ -1,0 +1,22 @@
+{
+    "root": "/docs",
+    "items": [
+        {
+            "title": "Language",
+            "type": "directory",
+            "children": [
+                {
+                    "title": "dart",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "path": "/docs/dart",
+                            "title": "Dart",
+                            "type": "markdown"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
