@@ -43,6 +43,28 @@
                             "type": "markdown"
                         }
                     ]
+                },
+                {
+                    "title": "network",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "path": "/docs/network/2-ipv6-address",
+                            "title": "2. ipv6-address",
+                            "type": "markdown"
+                        }
+                    ]
+                },
+                {
+                    "title": "network",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "path": "/docs/network/3-ipv6-icmpv6",
+                            "title": "3. ipv6-icmpv6",
+                            "type": "markdown"
+                        }
+                    ]
                 }
             ]
         }
