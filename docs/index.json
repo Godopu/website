@@ -6,12 +6,40 @@
             "type": "directory",
             "children": [
                 {
+                    "title": "cpp",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "path": "/docs/cpp",
+                            "title": "Development Environment Configuration for CPP",
+                            "type": "markdown"
+                        }
+                    ]
+                },
+                {
                     "title": "dart",
                     "type": "directory",
                     "children": [
                         {
                             "path": "/docs/dart",
                             "title": "Dart",
+                            "type": "markdown"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Pury",
+            "type": "directory",
+            "children": [
+                {
+                    "title": "network",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "path": "/docs/network/1-ipv6-protocol",
+                            "title": "Development Environment Configuration for CPP",
                             "type": "markdown"
                         }
                     ]
