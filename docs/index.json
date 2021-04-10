@@ -48,8 +48,8 @@
                             "type": "markdown"
                         },
                         {
-                            "path": "/docs/network/2-ipv6-address",
-                            "title": "2. ipv6-address",
+                            "path": "/docs/network/2-ipv6-icmpv6",
+                            "title": "3. ipv6-icmpv6",
                             "type": "markdown"
                         }
                     ]
