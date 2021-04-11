@@ -51,6 +51,16 @@
                             "path": "/docs/network/3-ipv6-icmpv6",
                             "title": "3. ipv6-icmpv6",
                             "type": "markdown"
+                        },
+                        {
+                            "path": "/docs/network/4-routing-unicasting",
+                            "title": "4. routing-unicasting",
+                            "type": "markdown"
+                        },
+                        {
+                            "path": "/docs/network/5-routing-multicasting",
+                            "title": "5. routing-multicasting",
+                            "type": "markdown"
                         }
                     ]
                 }
